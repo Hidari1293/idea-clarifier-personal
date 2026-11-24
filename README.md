@@ -120,7 +120,7 @@ D. 都不是，我想要的是另一种感觉
 ### 方式一：脚本（推荐）
 
 ```bash
-git clone https://github.com/<你的用户名>/idea-clarifier-personal.git
+git clone https://github.com/Hidari1293/idea-clarifier-personal.git
 cd idea-clarifier-personal
 ./install.sh
 ```
@@ -131,7 +131,7 @@ cd idea-clarifier-personal
 ### 方式二：手动复制
 
 ```bash
-git clone https://github.com/<你的用户名>/idea-clarifier-personal.git
+git clone https://github.com/Hidari1293/idea-clarifier-personal.git
 cp -r idea-clarifier-personal ~/.claude/skills/          # Claude Code
 cp -r idea-clarifier-personal ~/.workbuddy/skills/       # WorkBuddy
 ```
