@@ -1,0 +1,14 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# 安装脚本产生的备份
+*.bak.*
+
+# 本地测试残留
+.sync_test
